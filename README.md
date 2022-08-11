@@ -1,1 +1,2 @@
 # practice-sql
+learn sql
